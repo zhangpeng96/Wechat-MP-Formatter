@@ -1,5 +1,5 @@
 (function () {
-  var newMathJax = 'https://cdn.bootcdn.net/ajax/libs/mathjax/2.7.7/MathJax.js';
+  var newMathJax = 'https://cdn.bootcss.com/mathjax/2.7.7/MathJax.js';
   var oldMathJax = 'cdn.mathjax.org/mathjax/latest/MathJax.js';
 
   var replaceScript = function (script, src) {
