@@ -1,5 +1,5 @@
 (function () {
-  var newMathJax = 'http://cdn.bootcss.com/mathjax/2.7.7/MathJax.js';
+  var newMathJax = 'http://unpkg.com/mathjax@2.7.7/unpacked/MathJax.js';
   var oldMathJax = 'cdn.mathjax.org/mathjax/latest/MathJax.js';
 
   var replaceScript = function (script, src) {
